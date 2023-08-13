@@ -1,5 +1,9 @@
-Editor
 .bsp
 .metals
 .scala-build
 .vscode
+.idea
+build.sbt
+target/
+project/
+test/
